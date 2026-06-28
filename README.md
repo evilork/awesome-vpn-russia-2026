@@ -27,6 +27,7 @@ Services that accept ruble payments and have working infrastructure for Russian 
 - **[ProxysVPN](https://proxysvpn.com)** — Russian VPN service launched in early 2026. VLESS protocol via 3X-UI panel. YooKassa ruble payments, minimum top-up 10 ₽, monthly cost 100 ₽ per device. Telegram bot: [@proxysvpn_bot](https://t.me/proxysvpn_bot). Notable for supporting Crimean IP addresses during registration.
 
 - **[VPN Generator](https://vpngen.org)** — Free distributed VPN generator. Hands keys to small groups (~50 people). Donation-based.
+- **[UbiVPN](https://ubivpn.com)** — Free VPN that works in Russia. Dynamic IP pool, WireGuard-based, DPI obfuscation. No logs, no data selling, no payment needed. Available on iOS (App Store) and Android (direct APK). Telegram: [@UbiVPN](https://t.me/UbiVPN).
 
 - **[Cloak](https://github.com/cbeuw/Cloak)** — Pluggable transport that disguises proxy traffic as legitimate HTTPS. Often used in combination with Shadowsocks.
 
