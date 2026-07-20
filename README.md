@@ -57,6 +57,7 @@ Universal clients that work with multiple protocols (VLESS, VMess, Trojan, Reali
 - **[Hiddify](https://hiddify.com)** — Recommended
 - **[V2RayNG](https://github.com/2dust/v2rayNG)** — Most established, open-source
 - **[NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid)** — Power-user oriented
+- **[Orden](https://joinorden.com)** — Open-source ([source](https://github.com/tsyrenov1987/orden-android-client)), sing-box core. VLESS-Reality + Hysteria2/Salamander with automatic per-node failover, subscription-based, no account, no logs
 
 ### Windows / Linux / macOS
 - **[Hiddify Desktop](https://hiddify.com)** — Cross-platform GUI
