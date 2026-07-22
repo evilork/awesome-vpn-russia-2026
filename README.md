@@ -44,6 +44,8 @@ For users with technical skills and willingness to maintain their own VPS.
 
 - **[Wireguard-Easy](https://github.com/wg-easy/wg-easy)** — Simplest WireGuard deployment with web UI. Note: vanilla WireGuard is increasingly blocked in Russia, use with obfuscation.
 
+- **[Orden](https://github.com/tsyrenov1987/orden-android-client)** — Open-source client (sing-box core) with a bring-your-own-node mode: point it at your own VPS running VLESS-Reality / Hysteria2 and it handles auto-failover between them. MIT.
+
 ## Clients & Apps
 
 Universal clients that work with multiple protocols (VLESS, VMess, Trojan, Reality, Shadowsocks).
@@ -57,6 +59,7 @@ Universal clients that work with multiple protocols (VLESS, VMess, Trojan, Reali
 - **[Hiddify](https://hiddify.com)** — Recommended
 - **[V2RayNG](https://github.com/2dust/v2rayNG)** — Most established, open-source
 - **[NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid)** — Power-user oriented
+- **[Orden](https://github.com/tsyrenov1987/orden-android-client)** — Open-source sing-box client: VLESS-Reality + Hysteria2/Salamander with automatic failover between transports. On-device, no logs. Built for DPI-throttled networks.
 
 ### Windows / Linux / macOS
 - **[Hiddify Desktop](https://hiddify.com)** — Cross-platform GUI
